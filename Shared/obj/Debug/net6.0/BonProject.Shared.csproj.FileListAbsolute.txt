@@ -1,0 +1,12 @@
+/home/thobias/Projet/BonProject/Shared/bin/Debug/net6.0/BonProject.Shared.deps.json
+/home/thobias/Projet/BonProject/Shared/bin/Debug/net6.0/BonProject.Shared.dll
+/home/thobias/Projet/BonProject/Shared/bin/Debug/net6.0/ref/BonProject.Shared.dll
+/home/thobias/Projet/BonProject/Shared/bin/Debug/net6.0/BonProject.Shared.pdb
+/home/thobias/Projet/BonProject/Shared/obj/Debug/net6.0/BonProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/thobias/Projet/BonProject/Shared/obj/Debug/net6.0/BonProject.Shared.AssemblyInfoInputs.cache
+/home/thobias/Projet/BonProject/Shared/obj/Debug/net6.0/BonProject.Shared.AssemblyInfo.cs
+/home/thobias/Projet/BonProject/Shared/obj/Debug/net6.0/BonProject.Shared.csproj.CoreCompileInputs.cache
+/home/thobias/Projet/BonProject/Shared/obj/Debug/net6.0/BonProject.Shared.dll
+/home/thobias/Projet/BonProject/Shared/obj/Debug/net6.0/ref/BonProject.Shared.dll
+/home/thobias/Projet/BonProject/Shared/obj/Debug/net6.0/BonProject.Shared.pdb
+/home/thobias/Projet/BonProject/Shared/obj/Debug/net6.0/BonProject.Shared.csproj.AssemblyReference.cache
