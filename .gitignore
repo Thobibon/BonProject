@@ -1,4 +1,11 @@
 .vscode
 Client/bin/
+Client/obj/
 Shared/bin/
+Shared/obj/
 Server/bin/
+Server/obj/
+Core/bin/
+Core/obj/
+CQRS/bin/
+CQRS/obj/

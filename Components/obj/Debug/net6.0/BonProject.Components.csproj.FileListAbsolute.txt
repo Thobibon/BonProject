@@ -1,0 +1,17 @@
+/home/thobias/Projet/BonProject/Components/bin/Debug/net6.0/BonProject.Components.staticwebassets.runtime.json
+/home/thobias/Projet/BonProject/Components/bin/Debug/net6.0/BonProject.Components.deps.json
+/home/thobias/Projet/BonProject/Components/bin/Debug/net6.0/BonProject.Components.dll
+/home/thobias/Projet/BonProject/Components/bin/Debug/net6.0/ref/BonProject.Components.dll
+/home/thobias/Projet/BonProject/Components/bin/Debug/net6.0/BonProject.Components.pdb
+/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/BonProject.Components.GeneratedMSBuildEditorConfig.editorconfig
+/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/BonProject.Components.AssemblyInfoInputs.cache
+/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/BonProject.Components.AssemblyInfo.cs
+/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/BonProject.Components.csproj.CoreCompileInputs.cache
+/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/staticwebassets.build.json
+/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/staticwebassets.development.json
+/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/scopedcss/Component1.razor.rz.scp.css
+/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/scopedcss/bundle/BonProject.Components.styles.css
+/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/scopedcss/projectbundle/BonProject.Components.bundle.scp.css
+/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/BonProject.Components.dll
+/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/ref/BonProject.Components.dll
+/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/BonProject.Components.pdb

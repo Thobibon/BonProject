@@ -8,7 +8,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BonProject.Client", "Client
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BonProject.Shared", "Shared\BonProject.Shared.csproj", "{B9488D95-3874-4B44-A876-BFD4E0B4697A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonProject.CQRS", "BonProject.CQRS\BonProject.CQRS.csproj", "{50458967-BAAF-484E-AABB-C774A3C76EBD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonProject.CQRS", "CQRS\BonProject.CQRS.csproj", "{50458967-BAAF-484E-AABB-C774A3C76EBD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Shared", "1.Shared", "{89BE3363-72F2-4DEA-A953-15EAC2B1BD91}"
 EndProject
@@ -20,11 +20,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Core", "4.Core", "{D3CD8F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.CQRS", "5.CQRS", "{7AE0BCC7-581E-4076-A5D4-694F1732ACCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonProject.Core", "BonProject.Core\BonProject.Core.csproj", "{5C21A233-C77A-425E-8D6F-09814A14A52A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonProject.Core", "Core\BonProject.Core.csproj", "{5C21A233-C77A-425E-8D6F-09814A14A52A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.Components", "6.Components", "{A5F1B71B-811B-4F10-88D2-2DA8CFE8AD2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonProject.Components", "BonProject.Components\BonProject.Components.csproj", "{53B08247-6F42-43B1-8446-28DF12794C77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonProject.Components", "Components\BonProject.Components.csproj", "{53B08247-6F42-43B1-8446-28DF12794C77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

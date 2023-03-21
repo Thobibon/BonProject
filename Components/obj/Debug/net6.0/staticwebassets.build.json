@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "Ab2hmWy29iSL3rP78X8qOSOCG/yHJqNvSOwuRuBEoWY=",
+  "Source": "BonProject.Components",
+  "BasePath": "_content/BonProject.Components",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BonProject.Components/wwwroot",
+      "Source": "BonProject.Components",
+      "ContentRoot": "/home/thobias/Projet/BonProject/Components/wwwroot/",
+      "BasePath": "_content/BonProject.Components",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/scopedcss/bundle/BonProject.Components.styles.css",
+      "SourceId": "BonProject.Components",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/scopedcss/bundle/",
+      "BasePath": "_content/BonProject.Components",
+      "RelativePath": "BonProject.Components.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/scopedcss/bundle/BonProject.Components.styles.css"
+    },
+    {
+      "Identity": "/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/scopedcss/projectbundle/BonProject.Components.bundle.scp.css",
+      "SourceId": "BonProject.Components",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "BasePath": "_content/BonProject.Components",
+      "RelativePath": "BonProject.Components.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/scopedcss/projectbundle/BonProject.Components.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/thobias/Projet/BonProject/Components/wwwroot/background.png",
+      "SourceId": "BonProject.Components",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/thobias/Projet/BonProject/Components/wwwroot/",
+      "BasePath": "_content/BonProject.Components",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/background.png"
+    },
+    {
+      "Identity": "/home/thobias/Projet/BonProject/Components/wwwroot/exampleJsInterop.js",
+      "SourceId": "BonProject.Components",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/thobias/Projet/BonProject/Components/wwwroot/",
+      "BasePath": "_content/BonProject.Components",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/exampleJsInterop.js"
+    }
+  ]
+}
