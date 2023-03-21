@@ -1,1 +1,4 @@
 .vscode
+Client/bin/
+Shared/bin/
+Server/bin/
