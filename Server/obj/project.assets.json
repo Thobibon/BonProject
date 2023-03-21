@@ -1148,6 +1148,26 @@
           "bin/placeholder/BonProject.Client.dll": {}
         }
       },
+      "BonProject.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BonProject.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BonProject.Core.dll": {}
+        }
+      },
+      "BonProject.CQRS/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BonProject.CQRS.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BonProject.CQRS.dll": {}
+        }
+      },
       "BonProject.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2806,6 +2826,16 @@
       "path": "../Client/BonProject.Client.csproj",
       "msbuildProject": "../Client/BonProject.Client.csproj"
     },
+    "BonProject.Core/1.0.0": {
+      "type": "project",
+      "path": "../BonProject.Core/BonProject.Core.csproj",
+      "msbuildProject": "../BonProject.Core/BonProject.Core.csproj"
+    },
+    "BonProject.CQRS/1.0.0": {
+      "type": "project",
+      "path": "../BonProject.CQRS/BonProject.CQRS.csproj",
+      "msbuildProject": "../BonProject.CQRS/BonProject.CQRS.csproj"
+    },
     "BonProject.Shared/1.0.0": {
       "type": "project",
       "path": "../Shared/BonProject.Shared.csproj",
@@ -2814,7 +2844,9 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BonProject.CQRS >= 1.0.0",
       "BonProject.Client >= 1.0.0",
+      "BonProject.Core >= 1.0.0",
       "BonProject.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 6.0.14",
       "Microsoft.EntityFrameworkCore >= 6.0.15",
@@ -2855,6 +2887,12 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\thobi\\Source\\Repos\\Thobibon\\BonProject\\BonProject.Core\\BonProject.Core.csproj": {
+              "projectPath": "C:\\Users\\thobi\\Source\\Repos\\Thobibon\\BonProject\\BonProject.Core\\BonProject.Core.csproj"
+            },
+            "C:\\Users\\thobi\\Source\\Repos\\Thobibon\\BonProject\\BonProject.CQRS\\BonProject.CQRS.csproj": {
+              "projectPath": "C:\\Users\\thobi\\Source\\Repos\\Thobibon\\BonProject\\BonProject.CQRS\\BonProject.CQRS.csproj"
+            },
             "C:\\Users\\thobi\\Source\\Repos\\Thobibon\\BonProject\\Client\\BonProject.Client.csproj": {
               "projectPath": "C:\\Users\\thobi\\Source\\Repos\\Thobibon\\BonProject\\Client\\BonProject.Client.csproj"
             },

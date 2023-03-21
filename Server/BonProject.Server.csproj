@@ -17,6 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\BonProject.Core\BonProject.Core.csproj" />
+    <ProjectReference Include="..\BonProject.CQRS\BonProject.CQRS.csproj" />
     <ProjectReference Include="..\Client\BonProject.Client.csproj" />
     <ProjectReference Include="..\Shared\BonProject.Shared.csproj" />
   </ItemGroup>
