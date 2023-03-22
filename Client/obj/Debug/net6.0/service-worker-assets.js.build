@@ -857,19 +857,19 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-YLh5KlQg5HNDrPmgOOLQExdjkE+czPIuAqnfTwe+biw=",
+      "hash": "sha256-YmqZ3oEgw6T0UK31fQNmYGGRkkTgrJ1cj7iEY4syNcc=",
       "url": "_framework\/BonProject.Shared.dll"
     },
     {
-      "hash": "sha256-+U0GFKuT8wiGGp3\/TxYeIgo5yOmh3UKbUWPCXCLNoLM=",
+      "hash": "sha256-vMHGrtpa8S78hFsKv1MrkAlA+95Aj73gJaqm+kjwGcM=",
       "url": "_framework\/BonProject.Shared.pdb"
     },
     {
-      "hash": "sha256-B7K+94hM8EEOT9eneN37m+4SoNFO8BEpw13Q6gIJMUw=",
+      "hash": "sha256-qlYEui8BrruqBwaSK+WeDWaxngiTKe7Z+7WZjSthqiE=",
       "url": "_framework\/BonProject.Client.dll"
     },
     {
-      "hash": "sha256-Bgu9IR70sjNGHYEWys7zZEmH8UPnFXZ8MNxKS+gSZJM=",
+      "hash": "sha256-lqBWC0WE3\/wX38nkrZxWq0\/V1cck+k\/1M8XZll8cGFA=",
       "url": "_framework\/BonProject.Client.pdb"
     },
     {
@@ -877,9 +877,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-J1myL7XfknoU1I3TS97UiuZigMBC2S2Q9cPWHzj019k=",
+      "hash": "sha256-hv8X9R7Lde5C5H+D+1hqBf5ikrlcONJ8CKCUui9DcCk=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "2+6\/bQUQ"
+  "version": "LTyDqvNW"
 };

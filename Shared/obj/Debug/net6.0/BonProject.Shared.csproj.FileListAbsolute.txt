@@ -9,3 +9,4 @@
 /home/thobias/Projet/BonProject/Shared/obj/Debug/net6.0/BonProject.Shared.dll
 /home/thobias/Projet/BonProject/Shared/obj/Debug/net6.0/ref/BonProject.Shared.dll
 /home/thobias/Projet/BonProject/Shared/obj/Debug/net6.0/BonProject.Shared.pdb
+/home/thobias/Projet/BonProject/Shared/obj/Debug/net6.0/BonProject.Shared.csproj.AssemblyReference.cache

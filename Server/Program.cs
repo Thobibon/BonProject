@@ -1,4 +1,6 @@
 using Microsoft.AspNetCore.ResponseCompression;
+using BonProject.Server.Contexte;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,6 +8,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+
+// Init Database
+
+builder.Services.AddDbContext<BonProjectDbContext>(options => options.UseSqlite(builder.Configuration.GetConnectionString("MyDatabase")));
 
 var app = builder.Build();
 
