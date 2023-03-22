@@ -9,3 +9,5 @@ Core/bin/
 Core/obj/
 CQRS/bin/
 CQRS/obj/
+Components/bin/
+Components/obj/
