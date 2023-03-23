@@ -12,6 +12,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
+
 builder.Services.AddScoped<ICommandsBus, CommandsBus>();
 builder.Services.AddScoped(typeof(IQueryBus<,>), typeof(QueryBus<,>));
 
