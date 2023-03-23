@@ -5,51 +5,49 @@ build_property.UsingMicrosoftNETSdkWeb =
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = browser
-build_property.EnableSingleFileAnalyzer = 
-build_property.EnableTrimAnalyzer = true
-build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = BonProject.Client
 build_property.RootNamespace = BonProject.Client
-build_property.ProjectDir = /home/thobias/Projet/BonProject/Client/
+build_property.ProjectDir = C:\Users\thobi\source\repos\Thobibon\BonProject\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/thobias/Projet/BonProject/Client
+build_property.MSBuildProjectDirectory = C:\Users\thobi\source\repos\Thobibon\BonProject\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/thobias/Projet/BonProject/Client/App.razor]
+[C:/Users/thobi/source/repos/Thobibon/BonProject/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/thobias/Projet/BonProject/Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+[C:/Users/thobi/source/repos/Thobibon/BonProject/Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/thobias/Projet/BonProject/Client/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+[C:/Users/thobi/source/repos/Thobibon/BonProject/Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/thobias/Projet/BonProject/Client/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[C:/Users/thobi/source/repos/Thobibon/BonProject/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/thobias/Projet/BonProject/Client/Pages/User/SignIn.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlci9TaWduSW4ucmF6b3I=
+[C:/Users/thobi/source/repos/Thobibon/BonProject/Client/Pages/User/SignIn.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxTaWduSW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/thobias/Projet/BonProject/Client/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+[C:/Users/thobi/source/repos/Thobibon/BonProject/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/thobias/Projet/BonProject/Client/_Imports.razor]
+[C:/Users/thobi/source/repos/Thobibon/BonProject/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/thobias/Projet/BonProject/Client/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-6rwvdt06n9
+[C:/Users/thobi/source/repos/Thobibon/BonProject/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wpwnb06i8k
 
-[/home/thobias/Projet/BonProject/Client/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-i4srawmj3f
+[C:/Users/thobi/source/repos/Thobibon/BonProject/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-zv5l6btay0

@@ -1,91 +1,43 @@
 {
   "format": 1,
   "restore": {
-    "/home/thobias/Projet/BonProject/Server/BonProject.Server.csproj": {}
+    "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Server\\BonProject.Server.csproj": {}
   },
   "projects": {
-    "/home/thobias/Projet/BonProject/CQRS/BonProject.CQRS.csproj": {
+    "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Client\\BonProject.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/thobias/Projet/BonProject/CQRS/BonProject.CQRS.csproj",
-        "projectName": "BonProject.CQRS",
-        "projectPath": "/home/thobias/Projet/BonProject/CQRS/BonProject.CQRS.csproj",
-        "packagesPath": "/home/thobias/.nuget/packages/",
-        "outputPath": "/home/thobias/Projet/BonProject/CQRS/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/home/thobias/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "MediatR": {
-              "target": "Package",
-              "version": "[12.0.1, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.114/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/home/thobias/Projet/BonProject/Client/BonProject.Client.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/home/thobias/Projet/BonProject/Client/BonProject.Client.csproj",
+        "projectUniqueName": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Client\\BonProject.Client.csproj",
         "projectName": "BonProject.Client",
-        "projectPath": "/home/thobias/Projet/BonProject/Client/BonProject.Client.csproj",
-        "packagesPath": "/home/thobias/.nuget/packages/",
-        "outputPath": "/home/thobias/Projet/BonProject/Client/obj/",
+        "projectPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Client\\BonProject.Client.csproj",
+        "packagesPath": "C:\\Users\\thobi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Client\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/thobias/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\thobi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/thobias/Projet/BonProject/Shared/BonProject.Shared.csproj": {
-                "projectPath": "/home/thobias/Projet/BonProject/Shared/BonProject.Shared.csproj"
+              "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\CQRS\\BonProject.CQRS.csproj": {
+                "projectPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\CQRS\\BonProject.CQRS.csproj"
+              },
+              "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Shared\\BonProject.Shared.csproj": {
+                "projectPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Shared\\BonProject.Shared.csproj"
               }
             }
           }
@@ -116,14 +68,15 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.14, 6.0.14]"
+              "version": "[6.0.13, 6.0.13]"
             }
           ],
           "frameworkReferences": {
@@ -131,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.114/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -140,22 +93,29 @@
         }
       }
     },
-    "/home/thobias/Projet/BonProject/Core/BonProject.Core.csproj": {
+    "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Core\\BonProject.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/thobias/Projet/BonProject/Core/BonProject.Core.csproj",
+        "projectUniqueName": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Core\\BonProject.Core.csproj",
         "projectName": "BonProject.Core",
-        "projectPath": "/home/thobias/Projet/BonProject/Core/BonProject.Core.csproj",
-        "packagesPath": "/home/thobias/.nuget/packages/",
-        "outputPath": "/home/thobias/Projet/BonProject/Core/obj/",
+        "projectPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Core\\BonProject.Core.csproj",
+        "packagesPath": "C:\\Users\\thobi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thobi\\Source\\Repos\\Thobibon\\BonProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/thobias/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\thobi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -179,7 +139,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -188,43 +149,116 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.114/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/thobias/Projet/BonProject/Server/BonProject.Server.csproj": {
+    "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\CQRS\\BonProject.CQRS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/thobias/Projet/BonProject/Server/BonProject.Server.csproj",
-        "projectName": "BonProject.Server",
-        "projectPath": "/home/thobias/Projet/BonProject/Server/BonProject.Server.csproj",
-        "packagesPath": "/home/thobias/.nuget/packages/",
-        "outputPath": "/home/thobias/Projet/BonProject/Server/obj/",
+        "projectUniqueName": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\CQRS\\BonProject.CQRS.csproj",
+        "projectName": "BonProject.CQRS",
+        "projectPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\CQRS\\BonProject.CQRS.csproj",
+        "packagesPath": "C:\\Users\\thobi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\CQRS\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/thobias/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\thobi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Server\\BonProject.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Server\\BonProject.Server.csproj",
+        "projectName": "BonProject.Server",
+        "projectPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Server\\BonProject.Server.csproj",
+        "packagesPath": "C:\\Users\\thobi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\thobi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/thobias/Projet/BonProject/CQRS/BonProject.CQRS.csproj": {
-                "projectPath": "/home/thobias/Projet/BonProject/CQRS/BonProject.CQRS.csproj"
+              "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Client\\BonProject.Client.csproj": {
+                "projectPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Client\\BonProject.Client.csproj"
               },
-              "/home/thobias/Projet/BonProject/Client/BonProject.Client.csproj": {
-                "projectPath": "/home/thobias/Projet/BonProject/Client/BonProject.Client.csproj"
+              "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Core\\BonProject.Core.csproj": {
+                "projectPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Core\\BonProject.Core.csproj"
               },
-              "/home/thobias/Projet/BonProject/Core/BonProject.Core.csproj": {
-                "projectPath": "/home/thobias/Projet/BonProject/Core/BonProject.Core.csproj"
+              "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\CQRS\\BonProject.CQRS.csproj": {
+                "projectPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\CQRS\\BonProject.CQRS.csproj"
               },
-              "/home/thobias/Projet/BonProject/Shared/BonProject.Shared.csproj": {
-                "projectPath": "/home/thobias/Projet/BonProject/Shared/BonProject.Shared.csproj"
+              "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Shared\\BonProject.Shared.csproj": {
+                "projectPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Shared\\BonProject.Shared.csproj"
               }
             }
           }
@@ -272,7 +306,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -284,26 +319,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.114/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/thobias/Projet/BonProject/Shared/BonProject.Shared.csproj": {
+    "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Shared\\BonProject.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/thobias/Projet/BonProject/Shared/BonProject.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Shared\\BonProject.Shared.csproj",
         "projectName": "BonProject.Shared",
-        "projectPath": "/home/thobias/Projet/BonProject/Shared/BonProject.Shared.csproj",
-        "packagesPath": "/home/thobias/.nuget/packages/",
-        "outputPath": "/home/thobias/Projet/BonProject/Shared/obj/",
+        "projectPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Shared\\BonProject.Shared.csproj",
+        "packagesPath": "C:\\Users\\thobi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thobi\\Source\\Repos\\Thobibon\\BonProject\\Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/thobias/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\thobi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -327,7 +369,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -336,7 +379,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.114/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

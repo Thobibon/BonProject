@@ -10,3 +10,15 @@
 /home/thobias/Projet/BonProject/Shared/obj/Debug/net6.0/ref/BonProject.Shared.dll
 /home/thobias/Projet/BonProject/Shared/obj/Debug/net6.0/BonProject.Shared.pdb
 /home/thobias/Projet/BonProject/Shared/obj/Debug/net6.0/BonProject.Shared.csproj.AssemblyReference.cache
+C:\Users\thobi\Source\Repos\Thobibon\BonProject\Shared\bin\Debug\net6.0\BonProject.Shared.deps.json
+C:\Users\thobi\Source\Repos\Thobibon\BonProject\Shared\bin\Debug\net6.0\BonProject.Shared.dll
+C:\Users\thobi\Source\Repos\Thobibon\BonProject\Shared\bin\Debug\net6.0\BonProject.Shared.pdb
+C:\Users\thobi\Source\Repos\Thobibon\BonProject\Shared\obj\Debug\net6.0\BonProject.Shared.csproj.AssemblyReference.cache
+C:\Users\thobi\Source\Repos\Thobibon\BonProject\Shared\obj\Debug\net6.0\BonProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thobi\Source\Repos\Thobibon\BonProject\Shared\obj\Debug\net6.0\BonProject.Shared.AssemblyInfoInputs.cache
+C:\Users\thobi\Source\Repos\Thobibon\BonProject\Shared\obj\Debug\net6.0\BonProject.Shared.AssemblyInfo.cs
+C:\Users\thobi\Source\Repos\Thobibon\BonProject\Shared\obj\Debug\net6.0\BonProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\thobi\Source\Repos\Thobibon\BonProject\Shared\obj\Debug\net6.0\BonProject.Shared.dll
+C:\Users\thobi\Source\Repos\Thobibon\BonProject\Shared\obj\Debug\net6.0\refint\BonProject.Shared.dll
+C:\Users\thobi\Source\Repos\Thobibon\BonProject\Shared\obj\Debug\net6.0\BonProject.Shared.pdb
+C:\Users\thobi\Source\Repos\Thobibon\BonProject\Shared\obj\Debug\net6.0\ref\BonProject.Shared.dll

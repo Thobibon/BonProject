@@ -1,6 +1,9 @@
 using Microsoft.AspNetCore.ResponseCompression;
 using BonProject.Server.Contexte;
 using Microsoft.EntityFrameworkCore;
+using BonProject.CQRS.Commands;
+using BonProject.CQRS.Queries;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +11,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
+
+builder.Services.AddScoped<ICommandsBus, CommandsBus>();
+builder.Services.AddScoped(typeof(IQueryBus<,>), typeof(QueryBus<,>));
 
 // Init Database
 
