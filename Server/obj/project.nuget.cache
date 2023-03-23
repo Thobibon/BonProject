@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fsBWmdOM/CEy7lqYkclaQrYy7bKbd6jBFWZNGsLR3xntrqTiv2mZzY3MplyLzeugmzV1l0EW96oD3LLbrPDR2w==",
+  "dgSpecHash": "eJ4xdpIkkysBI4pf4avO1B2w3aXfm2xDml6U8nO+QnbmDdwlhbLdX9JJ9YBK9nhramumc1ydTaNplmOiw7Q6tg==",
   "success": true,
   "projectFilePath": "/home/thobias/Projet/BonProject/Server/BonProject.Server.csproj",
   "expectedPackageFiles": [
     "/home/thobias/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/home/thobias/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/home/thobias/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/home/thobias/.nuget/packages/microsoft.aspnetcore.authorization/6.0.14/microsoft.aspnetcore.authorization.6.0.14.nupkg.sha512",
     "/home/thobias/.nuget/packages/microsoft.aspnetcore.components/6.0.14/microsoft.aspnetcore.components.6.0.14.nupkg.sha512",
     "/home/thobias/.nuget/packages/microsoft.aspnetcore.components.analyzers/6.0.14/microsoft.aspnetcore.components.analyzers.6.0.14.nupkg.sha512",

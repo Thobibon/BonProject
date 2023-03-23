@@ -196,15 +196,15 @@
       "mscorlib.dll": "sha256-mvS0gmCEk3NPPJPuIX5UWyIRyNxQ4WYYES39CBT9CK0=",
       "netstandard.dll": "sha256-6NXprR7wyUZxpdXxaSPHSoC5uOL5UCc7bsZG3TSuVxE=",
       "System.Private.CoreLib.dll": "sha256-igtwZSR0\/lrbmwL\/XiTsEkIeSL+736GHTZPReYguZCQ=",
-      "BonProject.Shared.dll": "sha256-YmqZ3oEgw6T0UK31fQNmYGGRkkTgrJ1cj7iEY4syNcc=",
-      "BonProject.Client.dll": "sha256-qlYEui8BrruqBwaSK+WeDWaxngiTKe7Z+7WZjSthqiE="
+      "BonProject.Shared.dll": "sha256-dDDPi3963JV52tx0T1kJ58MDJwVeYzJcS6ypFVfsIfQ=",
+      "BonProject.Client.dll": "sha256-+cIKSpXMYFd19MD2z+KcoIuw59+KYc0yYtdGeoZGLUs="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BonProject.Shared.pdb": "sha256-vMHGrtpa8S78hFsKv1MrkAlA+95Aj73gJaqm+kjwGcM=",
-      "BonProject.Client.pdb": "sha256-lqBWC0WE3\/wX38nkrZxWq0\/V1cck+k\/1M8XZll8cGFA="
+      "BonProject.Shared.pdb": "sha256-ooOHGDJHsUwzZyfTFjPW8EqEEnnSgLJo\/zJXW+UcgSw=",
+      "BonProject.Client.pdb": "sha256-cPxfcZphnN3e\/qaxICqacCCZjMLcU3XOB\/F5gkYYh0A="
     },
     "runtime": {
       "dotnet.6.0.14.5d0txb2x5f.js": "sha256-54cJ6JdGhGbKaLWxHfRYzYbuyRq2wlK\/ZDzfSXD3FEs=",

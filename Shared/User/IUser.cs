@@ -10,8 +10,6 @@ public interface IUser
     [StringLength(128)]
     public string Email { get; }
 
-    public double Chances { get; }
-
     [StringLength(128)]
     public string? EmailParainage { get; }
 }
