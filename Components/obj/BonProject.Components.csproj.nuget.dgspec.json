@@ -11,7 +11,7 @@
         "projectName": "BonProject.Components",
         "projectPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Components\\BonProject.Components.csproj",
         "packagesPath": "C:\\Users\\thobi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Components\\obj\\",
+        "outputPath": "C:\\Users\\thobi\\Source\\Repos\\Thobibon\\BonProject\\Components\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

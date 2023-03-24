@@ -11,7 +11,7 @@
         "projectName": "BonProject.Client",
         "projectPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Client\\BonProject.Client.csproj",
         "packagesPath": "C:\\Users\\thobi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Client\\obj\\",
+        "outputPath": "C:\\Users\\thobi\\Source\\Repos\\Thobibon\\BonProject\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -160,7 +160,7 @@
         "projectName": "BonProject.CQRS",
         "projectPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\CQRS\\BonProject.CQRS.csproj",
         "packagesPath": "C:\\Users\\thobi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\CQRS\\obj\\",
+        "outputPath": "C:\\Users\\thobi\\Source\\Repos\\Thobibon\\BonProject\\CQRS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -226,7 +226,7 @@
         "projectName": "BonProject.Server",
         "projectPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Server\\BonProject.Server.csproj",
         "packagesPath": "C:\\Users\\thobi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Server\\obj\\",
+        "outputPath": "C:\\Users\\thobi\\Source\\Repos\\Thobibon\\BonProject\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
