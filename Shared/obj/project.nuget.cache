@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HDkBnIviXYnyuznFU4UlksSpsHXb+fN+jeD2xHkDgomCpEYOKLmy+fwjQbdpmsA8cGbgKddfHTs8+ltb53iSng==",
+  "dgSpecHash": "avAVWmILrDv8CR/QnzLRcgjYF7iAruWE24przEnt9F943uXMxHb012KfZeKdwPz7df2cIIJBYFCmGOXWdyH4gg==",
   "success": true,
-  "projectFilePath": "/home/thobias/Projet/BonProject/Shared/BonProject.Shared.csproj",
+  "projectFilePath": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Shared\\BonProject.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
