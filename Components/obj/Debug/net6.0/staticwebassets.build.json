@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fa52E7xAutiy4kqEK7iKRKz1fxZAt1xuyN/YAHoiF28=",
+  "Hash": "Ab2hmWy29iSL3rP78X8qOSOCG/yHJqNvSOwuRuBEoWY=",
   "Source": "BonProject.Components",
   "BasePath": "_content/BonProject.Components",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "BonProject.Components\\wwwroot",
+      "Name": "BonProject.Components/wwwroot",
       "Source": "BonProject.Components",
-      "ContentRoot": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Components\\wwwroot\\",
+      "ContentRoot": "/home/thobias/Projet/BonProject/Components/wwwroot/",
       "BasePath": "_content/BonProject.Components",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Components\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BonProject.Components.styles.css",
+      "Identity": "/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/scopedcss/bundle/BonProject.Components.styles.css",
       "SourceId": "BonProject.Components",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Components\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/scopedcss/bundle/",
       "BasePath": "_content/BonProject.Components",
       "RelativePath": "BonProject.Components.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Components\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BonProject.Components.styles.css"
+      "OriginalItemSpec": "/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/scopedcss/bundle/BonProject.Components.styles.css"
     },
     {
-      "Identity": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Components\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BonProject.Components.bundle.scp.css",
+      "Identity": "/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/scopedcss/projectbundle/BonProject.Components.bundle.scp.css",
       "SourceId": "BonProject.Components",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Components\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/scopedcss/projectbundle/",
       "BasePath": "_content/BonProject.Components",
       "RelativePath": "BonProject.Components.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Components\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BonProject.Components.bundle.scp.css"
+      "OriginalItemSpec": "/home/thobias/Projet/BonProject/Components/obj/Debug/net6.0/scopedcss/projectbundle/BonProject.Components.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Components\\wwwroot\\background.png",
+      "Identity": "/home/thobias/Projet/BonProject/Components/wwwroot/background.png",
       "SourceId": "BonProject.Components",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Components\\wwwroot\\",
+      "ContentRoot": "/home/thobias/Projet/BonProject/Components/wwwroot/",
       "BasePath": "_content/BonProject.Components",
       "RelativePath": "background.png",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\background.png"
+      "OriginalItemSpec": "wwwroot/background.png"
     },
     {
-      "Identity": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Components\\wwwroot\\exampleJsInterop.js",
+      "Identity": "/home/thobias/Projet/BonProject/Components/wwwroot/exampleJsInterop.js",
       "SourceId": "BonProject.Components",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\thobi\\source\\repos\\Thobibon\\BonProject\\Components\\wwwroot\\",
+      "ContentRoot": "/home/thobias/Projet/BonProject/Components/wwwroot/",
       "BasePath": "_content/BonProject.Components",
       "RelativePath": "exampleJsInterop.js",
       "AssetKind": "All",
@@ -82,7 +82,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+      "OriginalItemSpec": "wwwroot/exampleJsInterop.js"
     }
   ]
 }
